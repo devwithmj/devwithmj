@@ -35,7 +35,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devwithmj&show_icons=true&theme=graywhite&hide_border=true&custom_title=Majid’s GitHub Stats" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devwithmj" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithmj&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
