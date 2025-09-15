@@ -1,54 +1,56 @@
-# Hi there! 👋 I'm Majid (MJ)  
-<div align="center">
-  <!-- Custom header -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Majid%20Allahverdi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%7C%20.NET%20%26%20Azure%20Specialist&descAlignY=55&descSize=20"/>
-  
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+with+14%2B+years+experience;Expert+in+.NET%2C+Azure%2C+and+SQL+Server;Building+Scalable+%26+Cost-Efficient+Cloud+Apps;Clean+Architecture+%7C+CQRS+%7C+DDD" alt="Typing SVG" />
-</div>
+<!-- Banner/Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Majid%20Allahverdi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%.NET%20&%20Azure%20Specialist&descAlignY=55&descSize=20"/>
+</p>
+
+<!-- Typing Animation / Short Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Cloud-Apps;Expert+.NET+%7C+Azure+%7C+SQL-Server;Clean+Architecture+%7C+CQRS+%7C+DDD" alt="Typing animation" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 💻 Senior Full-Stack Developer with **14+ years** of experience  
-- ☁️ Specializing in **.NET, Azure, SQL Server**, and cloud architecture  
-- 🏥 Currently building **Beeplife**, a healthcare platform with **.NET 8 Web API + Flutter**  
-- 🔍 Passionate about **clean architecture, scalability, and performance**  
-- 📚 Always learning: exploring **Python** & advanced cloud-native solutions  
+### 👋 About Me
+
+- **Majid Allahverdi (MJ)** — Senior Full-Stack Developer with **14+ years** of experience  
+- Skilled in **.NET, Azure, SQL Server**, building cloud-native, scalable, and maintainable systems  
+- Passionate about performance, clean architecture, and real-world problem solving  
+- Currently working on **Beeplife**, a healthcare platform with .NET 8 Web API + Flutter  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🛠 Tech Stack
 
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-430098?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-**Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+| Domain             | Tools & Technologies |
+|--------------------|----------------------|
+| **Backend / API**  | C#, .NET 8, ASP.NET Core, minimal APIs |
+| **Cloud / Infrastructure** | Azure (App Service, Functions, SQL, Redis, Storage) |
+| **Frontend / Mobile** | Flutter, JS, TS |
+| **Database**       | SQL Server, PostgreSQL, MySQL |
+| **DevOps / CI–CD** | GitHub Actions, Docker, automated deployments |
+| **Architectural Patterns** | Clean Architecture, CQRS, DDD |
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devwithmj&show_icons=true&theme=graywhite&hide_border=true&custom_title=Majid's%20GitHub%20Stats" alt="Majid's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithmj&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Majid's Top Languages"/>
-</div>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devwithmj&show_icons=true&theme=graywhite&hide_border=true&custom_title=Majid’s GitHub Stats" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithmj&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 🔭 Currently Working On
+
+- Scaling Beeplife: improving performance, API response times, and optimizing Azure usage  
+- Improving architecture and code quality with domain-driven patterns  
+- Learning/refining features in cloud patterns & microservices  
+
+---
+
+### 📫 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/majid-av/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -66,6 +68,4 @@
 
 ---
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/devwithmj">devwithmj</a> – "Turning ideas into scalable solutions"</i>
-</div>
+<i align="center">From <strong>devwithmj</strong> – turning ideas into scalable solutions</i>
