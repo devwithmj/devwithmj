@@ -61,7 +61,7 @@
   <a href="https://github.com/devwithmj">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="http://www.alahverdi.com">
+  <a href="http://devwithmj.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
